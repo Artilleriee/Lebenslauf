@@ -1,2 +1,2 @@
 # Lebenslauf
-Ein programmierter Lebenslauf
+Ein in HTML und CSS geschriebener Lebenslauf
