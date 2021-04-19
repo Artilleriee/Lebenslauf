@@ -1,4 +1,4 @@
-.wrapper{
+header{
   background-color: #708090;
   text-align: center;
   font-size: 70px;
@@ -8,7 +8,7 @@
 .box{
   padding-left: 25px;
   background-color: #EDEDED;
-  height: calc(100vh - 105px);
+  height: calc(100% - 105px);
 }
 
 .row{
